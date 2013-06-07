@@ -9,5 +9,3 @@ DUG
 Nem Melhor Nem Pior Apenas diferente
 
 12346
-
-.............................................
